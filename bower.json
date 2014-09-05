@@ -1,0 +1,17 @@
+{
+  "name": "obj",
+  "main": "built/obj.js",
+  "version": "0.0.0",
+  "description": "Some module...",
+  "dependencies": {
+    "subject": "~0.5.9",
+    "es5-shim": "~4.0.3"
+  },
+  "devDependencies": {
+    "requirejs": "*",
+    "requirejs-text": "*",
+    "underscore": "*",
+    "jquery": "*",
+    "qunit": "*"
+  }
+}
